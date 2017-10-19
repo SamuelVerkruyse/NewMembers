@@ -3,3 +3,58 @@ samuelverkruyse@gmail.com
 Junior Computer Engineering
 Logging System
 
+Lucas Young
+luyoung@calpoly.edu
+2nd Year Computer Science
+Logging System
+
+Tiana Ton Nu
+tdtonnu@calpoly.edu
+2nd year Computer Engineering
+GCS
+
+Garrett Pierson
+gpierson@calpoly.edu
+3rd year Electrical Engineering
+Comms
+
+Colin VanDervoort
+cjvander@calpoly.edu
+3rd year Computer Engineering
+Computer Vision
+
+Dane Mortensen
+dhmorten@calpoly.edu
+3rd year Computer Science
+Comms
+
+Maxence Weyrich
+weyrich@calpoly.edu
+3rd Year Computer Science
+GCS
+
+Matthew Lawler
+mrlawler@calpoly.edu
+1st Year Computer Engineering
+Comms
+
+Pramika Kumar
+ppraveen@calpoly.edu
+2nd year Computer Engineerng
+Logging System
+
+Pranathi Guntupalli
+sguntupa@calpoly.edu
+2nd Year Software Engineering
+Logging System
+
+Isaac LaBarge
+isaac.labarge@gmail.com
+Electrical Engineering
+Comms
+
+James Kao
+jkao03@calpoly.edu
+2nd Year Computer Science
+Performance Optimization
+
